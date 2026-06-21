@@ -8,7 +8,7 @@ Built as part of the **ML Final Exam — Phitron Batch 01**.
 
 ## 🚀 Live Demo
 
-**Hugging Face Deployment:** [Click here to try the app](https://huggingface.co/spaces/YOUR_USERNAME/YOUR_SPACE_NAME)
+**Hugging Face Deployment:** [Click here to try the app](https://huggingface.co/spaces/MZahidKamal/Loan-Approval-Prediction-App)
 
 > Replace the link above with your actual Hugging Face Spaces URL after deployment.
 
