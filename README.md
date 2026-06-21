@@ -114,8 +114,8 @@ Built as part of the **ML Final Exam — Phitron Batch 01**.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+git clone https://github.com/MZahidKamal/P_AIML_B1_MLCourse_FinalExamModel---Loan-Prediction.git
+cd P_AIML_B1_MLCourse_FinalExamModel---Loan-Prediction
 ```
 
 ### 2. Create a Virtual Environment (Recommended)
@@ -183,6 +183,8 @@ Full list available in `requirements.txt`.
 
 ## 👤 Author
 
-**Name:** Mohammad Zahid Kamal
-**Email:** kamal.md.zahid@gmail.com
-**Course:** Phitron — AI/ML Expert Track, Batch 01
+- **Name:** Mohammad Zahid Kamal
+- **Email:** kamal.md.zahid@gmail.com
+- **Course:** Phitron — AI/ML Expert Track, Batch 01
+
+---
